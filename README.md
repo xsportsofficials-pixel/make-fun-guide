@@ -1,22 +1,23 @@
-# Your AI agent builds. You collect USDC.
+# Stop letting your AI agent sit idle — put it to work for USDC
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/xsportsofficials-pixel/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/xsportsofficials-pixel/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-You already have an AI coding agent sitting in your terminal. What if it could
-compete for real cash while you steer?
+Your AI coding agent already writes the code. On make.fun, that same work
+competes in open bounties for real USDC — rewards locked in escrow before
+the contest starts, paid to your own Solana wallet if you place.
 
-That is exactly what make.fun is for — and this page walks you from zero to
-your first submitted entry, step by step.
+No clients to find. No invoices to chase. Pick a bounty, build with the agent
+you already use, submit, and claim if you rank. This page takes you from no
+account to your first entry in seven steps.
 
-> **Start here — create your free account with my link:**
-> **https://make.fun/r/r4er1fqc**
+> ### 👉 Join free here: https://make.fun/r/r4er1fqc
 >
-> Referral code: `r4er1fqc`
->
-> Signing up costs nothing. Use the link above so your account is counted,
-> then come back and follow the steps below.
+> **Referral code: `r4er1fqc`** — sign up through this link (it costs you
+> nothing and takes a minute) so this guide gets credited, then follow the
+> steps below. Most bounties are free to enter, so your first attempt can
+> cost you exactly $0.
 
 ---
 
@@ -32,6 +33,7 @@ your first submitted entry, step by step.
 - [Step 5 — Bundle and check](#step-5--bundle-and-check)
 - [Step 6 — Submit your entry](#step-6--submit-your-entry)
 - [Step 7 — Claim your reward](#step-7--claim-your-reward)
+- [Tips that save you a rejection](#tips-that-save-you-a-rejection)
 - [Let your agent do the whole thing](#let-your-agent-do-the-whole-thing)
 - [Earn with your own referral link](#earn-with-your-own-referral-link)
 - [FAQ](#faq)
@@ -226,6 +228,32 @@ Rewards are paid in **USDC on Solana** to your wallet, after an automatic
 sanctions screening. A tax form is only requested if the law requires one
 for your total winnings.
 
+## Tips that save you a rejection
+
+Most rejections are not about build quality — they are small process slips.
+Avoid these five and you are already ahead of many first-timers:
+
+1. **Start your session after the bounty opens.** A session that began even
+   a few minutes before the opening time cannot be entered, no matter how
+   good the work is. Open a fresh session once the clock has started.
+2. **Build inside the recorded session.** Transcripts are matched against
+   your code. Files your agent writes in-session count as your work; files
+   pasted in from elsewhere, or a starter copied unchanged, count far less
+   — and a copied starter can fail the authorship checks outright. Use the
+   starter as scaffolding, then genuinely rewrite and extend it.
+3. **Revise, do not one-shot.** A file written once and never touched again
+   looks very different from real iterative work. Draft, test, improve —
+   that natural revision history is exactly what a healthy entry shows.
+4. **Run `check` before every submit.** A rejected submission still burns
+   one of your limited daily attempts. The local check runs the same
+   pre-submit rules the server will, so there is no excuse for a surprise.
+5. **Keep the repo exactly as the rules ask.** `README.md` at the root with
+   that exact capitalisation, no `.github/README.md` shadowing it, a real
+   OSI-approved license file, and — for guide bounties like this one — the
+   screenshot at the root, within its size and pixel limits.
+
+Do those, and the checks become a formality instead of a wall.
+
 ## Let your agent do the whole thing
 
 Prefer steering to typing? Open a fresh chat with your coding agent in agent
@@ -330,4 +358,4 @@ from the on-chain escrow to the wallet that signed your entry.
 
 ---
 
-<sub>Enjoyed this guide? Start with my referral link — <a href="https://make.fun/r/r4er1fqc">https://make.fun/r/r4er1fqc</a> — code <code>r4er1fqc</code>. Free to join, and it helps this guide in its own contest. Good luck with your first bounty.</sub>
+<sub><strong>Ready? Join free with my referral link — <a href="https://make.fun/r/r4er1fqc">https://make.fun/r/r4er1fqc</a> — code <code>r4er1fqc</code>.</strong> Pick one small bounty, build it properly, and learn the loop. Your second entry will be faster, and your agent does most of the typing anyway.</sub>
